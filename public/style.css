@@ -1,0 +1,13 @@
+.card {
+    border: 2px solid black;
+    position: relative;
+}
+
+
+#articles {
+    margin: 5px;
+}
+
+.btn {
+    margin: 3px;
+}
